@@ -2,21 +2,7 @@
 
 This repository contains the publicly releasable prototype and controlled experiments for ARIA (Autonomous Remediation and Intelligence Agent), a multi-agent framework for autonomous mobile-device remediation with policy-aware zero-trust authorization.
 
-The artifact accompanies the paper submitted to USENIX Security 2027.
-
-## Repository Structure
-
-ARIA/
-├── README.md
-├── LICENSE
-├── src/
-├── experiments/
-└── scripts/
-
-* `src/` — Prototype implementation of the ARIA authentication, authorization, and remediation workflow.
-* `experiments/` — Experimental code for security evaluation, remediation benchmarking, and scalability evaluation.
-* `scripts/` — Scripts for running the provided experiments.
-* `LICENSE` — CC BY-NC license.
+The artifact accompanies the paper submitted to USENIX Security 2027 (LICENSE` — CC BY-NC license).
 
 ## Artifact Scope
 
