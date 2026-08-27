@@ -16,7 +16,7 @@ ARIA/
 * `src/` — Prototype implementation of the ARIA authentication, authorization, and remediation workflow.
 * `experiments/` — Experimental code for security evaluation, remediation benchmarking, and scalability evaluation.
 * `scripts/` — Scripts for running the provided experiments.
-* `LICENSE` — CC BY-NC 4.0 license.
+* `LICENSE` — CC BY-NC license.
 
 ## Artifact Scope
 
